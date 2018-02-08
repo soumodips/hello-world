@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'SoumodipS',
   },
   plugins: ['gatsby-plugin-react-helmet'],
   pathPrefix: '/hello-world',
